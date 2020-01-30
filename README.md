@@ -4,6 +4,6 @@ This repository contains the content used for the presentation given at NDC Lond
 
 https://ndc-london.com/talk/reducing-third-party-security-risk-in-net-core-applications/
 
-[Slides PDF](Slides/UpdateConferenceFinal.pdf)
+[Slides PDF](Slides/NDCSlides.pdf)
 
 [Fennec API Dumper](https://fennec.dev)
